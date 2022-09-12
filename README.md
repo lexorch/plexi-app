@@ -1,2 +1,1 @@
-# orioleLite
-Low-intensity twitter app
+# plexi-app
